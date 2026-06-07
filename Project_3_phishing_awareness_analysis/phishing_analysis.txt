@@ -1,0 +1,130 @@
+PHISHING AWARENESS ANALYSIS
+
+Name: Vikash
+Internship: DecodeLabs Cyber Security Internship
+Project: Phishing Awareness Analysis
+
+Introduction
+
+Phishing is a cyber attack in which attackers try to trick users into sharing sensitive information such as passwords, bank details, OTPs, or personal data. In this project, I analyzed different phishing messages and identified the warning signs present in them.
+
+--------------------------------------------------
+
+Analysis 1
+
+Message:
+
+Dear Customer,
+
+Your bank account will be blocked within 24 hours due to suspicious activity.
+
+Click here to verify:
+www.sbi-security-update.com
+
+Regards,
+SBI Team
+
+Red Flags:
+
+1. Creates urgency by mentioning account blockage.
+2. Suspicious website link.
+3. Requests immediate action.
+4. Generic greeting instead of customer's name.
+
+Why it is Unsafe:
+
+The message tries to scare the user into clicking a fake website. The website may steal banking credentials and personal information.
+
+Result:
+
+Phishing Attempt
+
+--------------------------------------------------
+
+Analysis 2
+
+Message:
+
+Congratulations!
+
+You have won a brand new iPhone 16 Pro.
+
+Claim your reward now:
+www.free-prize-winner.com
+
+Red Flags:
+
+1. Unrealistic reward.
+2. Unknown website.
+3. Creates excitement to encourage clicking.
+4. No proof of the prize.
+
+Why it is Unsafe:
+
+The attacker is trying to attract users through a fake prize offer. Clicking the link may lead to scams or malware downloads.
+
+Result:
+
+Phishing Attempt
+
+--------------------------------------------------
+
+Analysis 3
+
+Message:
+
+Hello Employee,
+
+The HR department has shared an important salary revision document.
+
+Download immediately:
+www.company-payroll-update.com
+
+Red Flags:
+
+1. Urgent request.
+2. Unknown website.
+3. Unexpected attachment or download.
+4. No official company email address.
+
+Why it is Unsafe:
+
+The downloaded file may contain malware or ransomware that could compromise the user's device.
+
+Result:
+
+Phishing Attempt
+
+--------------------------------------------------
+
+Analysis 4
+
+Message:
+
+Dear User,
+
+Your email account storage is full.
+
+Verify your account immediately:
+www.email-verification-login.com
+
+Red Flags:
+
+1. Creates panic.
+2. Requests account verification.
+3. Suspicious login page.
+4. Generic greeting.
+
+Why it is Unsafe:
+
+The website may collect usernames and passwords through a fake login page.
+
+Result:
+
+Phishing Attempt
+
+--------------------------------------------------
+
+Conclusion
+
+During this project, I learned how phishing attacks use urgency, fear, rewards, and fake websites to trick users. I also learned to check suspicious links, sender details, and unusual requests before taking any action. This awareness can help prevent cyber attacks and protect sensitive information.
